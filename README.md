@@ -1,6 +1,6 @@
 # Hi, I'm Arin 👋
 
-I'm a junior at **Rutgers University–New Brunswick** (graduating 2028) interested in **data science**. I like taking messy, real-world data and turning it into something people can actually use, whether that's a model, a dashboard, or an app.
+I'm a junior at **Rutgers University–New Brunswick** (graduating 2028) studying **data science and economics**. I like taking messy, real-world data and turning it into something people can actually use, whether that's a model, a dashboard, or an app.
 
 🔍 **Looking for Summer 2027 internships** in data science, product management, or business analytics.
 
