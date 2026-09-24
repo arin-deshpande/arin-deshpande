@@ -11,7 +11,7 @@ Predicts delays and cancellations for Atlanta flights by joining 2024 U.S. fligh
 `Python` `pandas` `scikit-learn` `Jupyter`
 
 ### 📈 [Trading Strategy Backtester](https://github.com/arin-deshpande/quant-strat-backtester)
-A sandbox for testing five classic trading strategies against buy-and-hold, with win rate, alpha, and a full trade log. Adjust the settings and rerun instantly in the browser. [Live demo](https://arin-deshpande.github.io/quant-strat-backtester/)
+[Live demo](https://arin-deshpande.github.io/quant-strat-backtester/) A sandbox for testing five classic trading strategies against buy-and-hold, with win rate, alpha, and a full trade log. Adjust the settings and rerun instantly in the browser.
 `React` `JavaScript` `Vite` `GitHub Actions`
 
 ### 💹 [ƒinatics](https://github.com/arin-deshpande/mobile-finance-app)
