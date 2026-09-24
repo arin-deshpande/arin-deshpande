@@ -1,6 +1,6 @@
 # Hi, I'm Arin 👋
 
-I'm a junior at **Rutgers University–New Brunswick** (graduating 2028) studying **data science and economics**. I like taking messy, real-world data and turning it into something people can actually use, whether that's a model, a dashboard, or an app.
+I'm a junior at **Rutgers University–New Brunswick** studying **data science and economics**. I like taking messy, real-world data and turning it into something people can actually use, whether that's a model, a dashboard, or an app.
 
 🔍 **Looking for Summer 2027 internships** in data science, product management, or business analytics.
 
@@ -10,8 +10,8 @@ I'm a junior at **Rutgers University–New Brunswick** (graduating 2028) studyin
 Predicts delays and cancellations for Atlanta flights by joining 2024 U.S. flight data with daily weather. Built with 2 teammates: we cleaned a 1.31 GB dataset down to ATL, tested five model iterations, and landed on random forests that rank cancellation risk with a 0.90 ROC-AUC.
 `Python` `pandas` `scikit-learn` `Jupyter`
 
-### 📈 [Trading Strategy Backtester](https://github.com/arin-deshpande/quant-strat-backtester) · [Live demo](https://arin-deshpande.github.io/quant-strat-backtester/)
-A sandbox for testing five classic trading strategies against buy-and-hold, with win rate, alpha, and a full trade log. Adjust the settings and rerun instantly in the browser.
+### 📈 [Trading Strategy Backtester](https://github.com/arin-deshpande/quant-strat-backtester)
+A sandbox for testing five classic trading strategies against buy-and-hold, with win rate, alpha, and a full trade log. Adjust the settings and rerun instantly in the browser. [Live demo](https://arin-deshpande.github.io/quant-strat-backtester/)
 `React` `JavaScript` `Vite` `GitHub Actions`
 
 ### 💹 [ƒinatics](https://github.com/arin-deshpande/mobile-finance-app)
